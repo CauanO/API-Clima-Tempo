@@ -1,4 +1,4 @@
-var chaveApi = "93b347f7dfb91578a45f3fd3ffa6da43";
+var chaveApi = "YOUR_KEY";
 var apiUnsplash = "https://source.unsplash.com/1600x900/?";
 
 var cidadeInput = document.querySelector("#cidade-input");
